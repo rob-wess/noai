@@ -1,23 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="59" height="28" role="img" aria-label="NOAI">
-    <title>NO AI</title>
-    <defs>
-        <linearGradient id="gradient" x1="0" x2="1">
-            <stop offset="0" stop-color="rgb(246, 0, 0)" />  <!-- red -->
-            <stop offset="0.17" stop-color="rgb(255, 140, 0)" />  <!-- orange -->
-            <stop offset="0.34" stop-color="rgb(255, 238, 0)" />  <!-- yellow -->
-            <stop offset="0.51" stop-color="rgb(77, 233, 76) " />  <!-- green -->
-            <stop offset="0.68" stop-color="rgb(55, 131, 255)" />  <!-- blue -->
-            <stop offset="0.85" stop-color="rgb(63, 0, 255)" />  <!-- indigo -->
-            <stop offset="1" stop-color="rgb(127, 0, 255)" />  <!-- violet -->
-        </linearGradient>
-    </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="88.25" height="28" role="img" aria-label="OPERA">
+    <title>OPERA</title>
     <g shape-rendering="crispEdges">
-        <rect width="59" height="28" fill="url(#gradient)" />
+        <rect width="88.25" height="28" fill="#1495af" />
     </g>
     <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
-        text-rendering="geometricPrecision" font-size="110">
-        <text transform="scale(.1)" x="295" y="175" textLength="350" fill="#000" font-weight="bold">
-            NO AI
-        </text>
+        text-rendering="geometricPrecision" font-size="100">
+        <image x="9" y="7" width="14" height="14"
+            href="data:image/svg+xml;base64,PCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgR2VuZXJhdG9yOiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4NCjxzdmcgd2lkdGg9IjgwMHB4IiBoZWlnaHQ9IjgwMHB4IiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiBjbGFzcz0iaWNvbiIgdmVyc2lvbj0iMS4xIg0KICAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+DQogICAgPHBhdGgNCiAgICAgICAgZD0iTTQzNC40NTIgOTA0Ljg1NmMwIDMwLjY0NyAyNC44NDMgNTUuNDkgNTUuNDg5IDU1LjQ5aDM2Ljk5M2MzMC42NDcgMCA1NS40OS0yNC44NDMgNTUuNDktNTUuNDlWODg2LjM2SDQzNC40NTJ2MTguNDk2eiBtNzMuOTg2LTgzMi4zNDJjLTE3My42NiAwLTMxNC40NCAxNDAuNzgtMzE0LjQ0IDMxNC40NCAwIDk1LjM2OCA0Mi40NTcgMTgwLjgyIDEwOS40OTkgMjM4LjQ4NiA0MS4xMTggMzUuMzY1IDEzMC45NTUgMjIzLjkyNiAxMzAuOTU1IDIyMy45MjZoMTQ3Ljk3MnM4OS44OTMtMTg4Ljg0OSAxMzAuMTI4LTIyMy4yMTljNjcuNTIxLTU3LjY3MiAxMTAuMzI2LTE0My40MzMgMTEwLjMyNi0yMzkuMTkzIDAuMDAxLTE3My42NTktMTQwLjc4LTMxNC40NC0zMTQuNDQtMzE0LjQ0eiBtMTgwLjEwMSA1MjQuNzE4QzY1My4wMzcgNjI3LjUwOSA1NzMuNzIgODEyLjM3NCA1NzMuNzIgODEyLjM3NGgtNDYuNzg1VjU3OS40MDFsODcuMTgxLTg3LjE4MWM3LjE3My03LjE3NSA3LjE3My0xOC44MDUgMC0yNS45NzgtNy4xNzMtNy4xNzMtMTguODA0LTcuMTczLTI1Ljk3OCAwbC03OS42MSA3OS42MS0xMDcuODk1LTEwNy44OTVjLTcuMjI1LTcuMjI1LTE4LjkzNS03LjIyNS0yNi4xNTggMC03LjIyNSA3LjIyMy03LjIyNSAxOC45MzMgMCAyNi4xNThsMTEyLjI5MiAxMTIuMjkyYzAuOTgxIDAuOTgxIDIuMDUgMS44MTcgMy4xNzQgMi41MzF2MjMzLjQzNmgtNDYuNzg1cy03OS4yNjktMTg0LjYxLTExNS41NDgtMjE1Ljc2NWMtNTkuMTU3LTUwLjgwMS05Ni42MTgtMTI2LjA3OS05Ni42MTgtMjEwLjA5NCAwLTE1Mi45ODYgMTI0LjIxNy0yNzcuMDA3IDI3Ny40NDctMjc3LjAwN3MyNzcuNDQ3IDEyNC4wMjEgMjc3LjQ0NyAyNzcuMDA3YzAuMDAyIDg0LjM1OC0zNy43NjggMTU5LjkxMS05Ny4zNDUgMjEwLjcxN3oiDQogICAgICAgIGZpbGw9IiNmZmYiIC8+DQo8L3N2Zz4=" />
+        <text transform="scale(.1)" x="541.25" y="175" textLength="442.5" fill="#fff"
+            font-weight="regular">NO AI</text>
     </g>
 </svg>
