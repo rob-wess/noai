@@ -1,7 +1,7 @@
 # noai
 
-[!NOTE]  
-Highlights information that users should take into account, even when skimming.
+> [!NOTE]
+> This project was created without the use of generative AI. 100% human made!
 
 ![No AI](./resources/no-ai.svg)
 
