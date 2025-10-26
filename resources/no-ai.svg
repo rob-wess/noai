@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="59" height="28" role="img" aria-label="NOAI">
+    <title>NO AI</title>
+    <defs>
+        <linearGradient id="gradient" x1="0" x2="1">
+            <stop offset="0" stop-color="rgb(246, 0, 0)" />  <!-- red -->
+            <stop offset="0.17" stop-color="rgb(255, 140, 0)" />  <!-- orange -->
+            <stop offset="0.34" stop-color="rgb(255, 238, 0)" />  <!-- yellow -->
+            <stop offset="0.51" stop-color="rgb(77, 233, 76) " />  <!-- green -->
+            <stop offset="0.68" stop-color="rgb(55, 131, 255)" />  <!-- blue -->
+            <stop offset="0.85" stop-color="rgb(63, 0, 255)" />  <!-- indigo -->
+            <stop offset="1" stop-color="rgb(127, 0, 255)" />  <!-- violet -->
+        </linearGradient>
+    </defs>
+    <g shape-rendering="crispEdges">
+        <rect width="59" height="28" fill="url(#gradient)" />
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+        text-rendering="geometricPrecision" font-size="110">
+        <text transform="scale(.1)" x="295" y="175" textLength="350" fill="#000" font-weight="bold">
+            NO AI
+        </text>
+    </g>
+</svg>
