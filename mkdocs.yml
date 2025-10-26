@@ -1,0 +1,13 @@
+---
+site_name: rob-wess/no-ai
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+docs_dir: resources
+theme:
+  name: material
+nav:
+  - Home: mkdocs-README.md
